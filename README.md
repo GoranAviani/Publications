@@ -12,6 +12,8 @@ How to Set Up Python Virtual Environment on Ubuntu 20.04 is tacking once again a
 development environment with an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
 
 _freeCodeCamp, jun 12, 2020._ 
+<br>
+_ITNEXT, jun 12, 2020._ 
 
 <br>
 <br>
@@ -25,6 +27,7 @@ _freeCodeCamp, jun 12, 2020._
 How to set up Virtualenv with Virtualenvwrapper on Ubuntu 18.04 is an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
 
 _ITNEXT, jul 30, 2019._ 
+
 
 <br>
 <br>
