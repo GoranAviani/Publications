@@ -7,6 +7,20 @@
 <br>
 <img src="https://miro.medium.com/max/700/1*aMYnl2Ctt9Y-RZ5bodNF2g.jpeg" align="left" border="2" width="20%"/>
 
+[How to Set Up Python Virtual Environment on Ubuntu 20.04](https://itnext.io/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04-goran-aviani-d7b712d906d5) - 
+How to Set Up Python Virtual Environment on Ubuntu 20.04 is tacking once again a returning issue of setting up Python 
+development environment with an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
+
+_freeCodeCamp, jun 12, 2020._ 
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<img src="https://miro.medium.com/max/700/1*aMYnl2Ctt9Y-RZ5bodNF2g.jpeg" align="left" border="2" width="20%"/>
+
 [Virtualenv with Virtualenvwrapper on Ubuntu 18.04](https://itnext.io/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04-goran-aviani-d7b712d906d5) - 
 How to set up Virtualenv with Virtualenvwrapper on Ubuntu 18.04 is an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
 
