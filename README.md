@@ -27,7 +27,8 @@ _ITNEXT, jun 12, 2020._
 How to set up Virtualenv with Virtualenvwrapper on Ubuntu 18.04 is an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
 
 _ITNEXT, jul 30, 2019._ 
-
+<br>
+_freeCodeCamp, jun 11, 2020._ 
 
 <br>
 <br>
