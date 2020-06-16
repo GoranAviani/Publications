@@ -8,12 +8,13 @@
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/prateek-katyal-6jYnKXVxOjc-unsplash.jpg" align="left" border="2" width="20%"/>
 
 [How to Set Up Python Virtual Environment on Ubuntu 20.04](https://www.freecodecamp.org/news/how-to-set-up-python-virtual-environment-on-ubuntu-20-04/) - 
-How to Set Up Python Virtual Environment on Ubuntu 20.04 is tacking once again a returning issue of setting up Python 
-development environment with an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
+How to Set Up Python Virtual Environment on Ubuntu 20.04 is once again tackling a returning issue of setting up Python 
+development environment with an up to date tutorial that will show our readers how to quickly set up Virtual 
+Environments while avoiding common issues most users tend to encounter.
 
-_freeCodeCamp, jun 12, 2020._ 
+_freeCodeCamp, Jun 12, 2020._ 
 <br>
-_ITNEXT, jun 12, 2020._ 
+_ITNEXT, Jun 12, 2020._ 
 
 <br>
 <br>
@@ -24,11 +25,12 @@ _ITNEXT, jun 12, 2020._
 <img src="https://miro.medium.com/max/700/1*aMYnl2Ctt9Y-RZ5bodNF2g.jpeg" align="left" border="2" width="20%"/>
 
 [Virtualenv with Virtualenvwrapper on Ubuntu 18.04](https://itnext.io/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04-goran-aviani-d7b712d906d5) - 
-How to set up Virtualenv with Virtualenvwrapper on Ubuntu 18.04 is an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
+How to set up Virtualenv with Virtualenvwrapper on Ubuntu 18.04 is an up to date tutorial that will show our readers how 
+to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
 
-_ITNEXT, jul 30, 2019._ 
+_ITNEXT, Jul 30, 2019._ 
 <br>
-_freeCodeCamp, jun 11, 2020._ 
+_Republished on freeCodeCamp, Apr 1, 2020._ 
 
 <br>
 <br>
@@ -47,7 +49,7 @@ The second part will show how to work with xlsx files by doing all the steps fro
 
 
 The article presents the finished code with two free-to-download GitHub repositories, one for each part of the text. There is also a link to the web app which was built using the code from the second part: https://tools.incodaq.com
-<br>_Medium, apr 08, 2019._ _Republished on freeCodeCamp on apr 17, 2019._
+<br>_Medium, Apr 08, 2019._ _Republished on freeCodeCamp on Apr 17, 2019._
 
 <br>
 <br>
@@ -55,7 +57,13 @@ The article presents the finished code with two free-to-download GitHub reposito
 
 <img src="https://cdn-images-1.medium.com/max/1000/0*2GkM1pvDmnI2ksUM.png" align="left" border="2" width="20%"/>
 
-[Understanding Git: basics, commands, tips & tricks](https://medium.com/@goranaviani/understanding-git-basics-commands-tips-tricks-da0c05db411f) - Understanding Git: basics, commands, tips & tricks is a full overview of all things you need to know to get started with Git! Article starts by explaining what is version-control system Git and what are repository management services like GitHub, GitLab and Bitbucket. By listing and explaining all commands that an average Git useruses, reader can dive into the world of Git. Article ends with Tips & Tricks section which explains some more used functionalities of Git.  <br> _Medium, jan 09, 2019._ _Republished on DevOpsLinks on jan 11, 2019._
+[Understanding Git: basics, commands, tips & tricks](https://medium.com/@goranaviani/understanding-git-basics-commands-tips-tricks-da0c05db411f) - Understanding 
+Git: basics, commands, tips & tricks is a full overview of all things you need to know to get started with Git! Article 
+starts by explaining what is version-control system Git and what are repository management services like GitHub, GitLab 
+and Bitbucket. By listing and explaining all commands that an average Git useruses, reader can dive into the world of 
+Git. Article ends with Tips & Tricks section which explains some more used functionalities of Git.  
+<br> 
+_Medium, Jan 09, 2019._ _Republished on DevOpsLinks on Jan 11, 2019._
 
 <br>
 <br>
@@ -63,14 +71,21 @@ The article presents the finished code with two free-to-download GitHub reposito
 
 <img src="https://cdn-images-1.medium.com/max/1067/0*sKaYtAoXV74DLcsB" align="left" border="2" width="20%"/>
 
-[HTTP and everything you need to know about it](https://medium.com/@goranaviani/http-and-everything-you-need-to-know-about-it-8273bc224491) - HTTP and everything you need to know about it is a nice overview of HTTP and technologies around it. <br>_Medium, oct 07, 2018._ _Republished on DevOpsLinks on jan 11, 2019._
+[HTTP and everything you need to know about it](https://medium.com/@goranaviani/http-and-everything-you-need-to-know-about-it-8273bc224491) - HTTP and everything you need to know about it is a nice overview of HTTP and technologies around it. 
+<br>_Medium, Oct 07, 2018._ _Republished on DevOpsLinks on Jan 11, 2019._
 
 <br>
 <br>
 
 <img src="https://cdn-images-1.medium.com/max/1067/1*32wN-ItVobWdxmWwyU8o8A.jpeg" align="left" border="2" width="20%"/>
 
-[How to set up a local debugging environment in PHP](https://medium.com/@goranaviani/set-up-xdebug-phpstorm-in-php5-7-6a8386304fc6) - How to set up a local debugging environment in PHP is an article where I explain the process of setting up those technologies for debugging purposes. This article gives its readers step by step real code examples, images and explanations that will help in setting up debugging environments in a matter of minutes.  <br>_Medium, aug 28, 2018._ _Republished on freeCodeCamp on nov 15, 2018._
+[How to set up a local debugging environment in PHP](https://medium.com/@goranaviani/set-up-xdebug-phpstorm-in-php5-7-6a8386304fc6) - How 
+to set up a local debugging environment in PHP is an article where I explain the process of setting up those 
+technologies for debugging purposes. This article gives its readers step by step real code examples, images and 
+explanations that will help in setting up debugging environments in a matter of minutes.  
+<br>
+_Medium, Aug 28, 2018._ 
+_Republished on freeCodeCamp on Nov 15, 2018._
 
 
 <br>
@@ -78,7 +93,7 @@ The article presents the finished code with two free-to-download GitHub reposito
 
 <img src="https://cdn-images-1.medium.com/max/800/1*ifhHAX50eGNx801vofFtPQ.jpeg" align="left" border="2" width="20%"/>
 
-[Threat modeling](https://medium.com/@goranaviani/threat-modeling-317b375548da) - Digital attacks are more and more frequent, and the first step in securing your apps is to understand the threats and how to counter them. In this article I’ve talked about Threat modeling, and how it’s used in application security. <br>_Medium, jul 19, 2018._ _Republished on DevOpsLinks on jan 11, 2019._
+[Threat modeling](https://medium.com/@goranaviani/threat-modeling-317b375548da) - Digital attacks are more and more frequent, and the first step in securing your apps is to understand the threats and how to counter them. In this article I’ve talked about Threat modeling, and how it’s used in application security. <br>_Medium, Jul 19, 2018._ _Republished on DevOpsLinks on Jan 11, 2019._
 
 
 <br>
@@ -86,14 +101,14 @@ The article presents the finished code with two free-to-download GitHub reposito
 <img src="https://cdn-images-1.medium.com/max/1400/1*MQQFG3SfXfX6VkkmC3quiQ.jpeg" align="left" border="2" width="20%"/>
 
 [Testing in Python](https://medium.com/@goranaviani/testing-in-python-c6b903eb247d) - This article covers unit tests in Python. Idea of this article is for readers to get hands on experience and understanding about writing tests in Python.
-First part of Testing in Python series. <br>_Medium, Jun 25, 2018_ _Republished on DevOpsLinks on jan 11, 2019._ _Republished on freeCodeCamp on jan 22, 2019._
+First part of Testing in Python series. <br>_Medium, Jun 25, 2018_ _Republished on DevOpsLinks on Jan 11, 2019._ _Republished on freeCodeCamp on Jan 22, 2019._
 
 <br>
 <br>
 <img src="https://cdn-images-1.medium.com/max/800/1*aBjEUaDShrMB9RFqbl_saQ.jpeg" align="left" border="2" width="20%"/>
 
 [Documenting Django projects using Sphinx tool](https://medium.com/@goranaviani/sphinx-for-django-documentation-2454e924b3bc) - Article where I explain the building process of Django's framework documentation by using Sphinx tool. Readers follow a step by step explanation of different ways for documenting their projects  with real code examples. 
-<br>_Medium, Jun 8, 2018_ _Republised on freeCodeCamp on oct 24, 2018._
+<br>_Medium, Jun 8, 2018_ _Republised on freeCodeCamp on Oct 24, 2018._
 
 <br>
 <br>
