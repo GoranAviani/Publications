@@ -7,7 +7,7 @@
 <br>
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/prateek-katyal-6jYnKXVxOjc-unsplash.jpg" align="left" border="2" width="20%"/>
 
-[Installing Ubuntu MATE on Raspberry PI](https://www.freecodecamp.org/news/how-to-set-up-python-virtual-environment-on-ubuntu-20-04/) - 
+[Installing Ubuntu MATE on Raspberry PI](https://www.freecodecamp.org/news/how-to-set-up-ubuntu-mate-on-raspberry-pi/) - 
 Installing Ubuntu MATE on Raspberry PI is a step by step article accompanied with screen shots that show how to flash Micro SD card with Ubuntu Mate and install it on Rasbperry PI.
 
 _freeCodeCamp, Jun 12, 2020._ 
