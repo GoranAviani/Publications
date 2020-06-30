@@ -5,7 +5,7 @@
 ## List of my published technological articles
 <br>
 <br>
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/prateek-katyal-6jYnKXVxOjc-unsplash.jpg" align="left" border="2" width="20%"/>
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/1593285574373_plus-1.jpg" align="left" border="2" width="20%"/>
 
 [How to Set Up Ubuntu MATE on Raspberry PI](https://www.freecodecamp.org/news/how-to-set-up-ubuntu-mate-on-raspberry-pi/) - 
 How to Set Up Ubuntu MATE on Raspberry PI is a step by step article accompanied with screen shots that show how to flash Micro SD card with Ubuntu Mate and install it on Rasbperry PI.
