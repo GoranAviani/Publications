@@ -7,6 +7,20 @@
 <br>
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/prateek-katyal-6jYnKXVxOjc-unsplash.jpg" align="left" border="2" width="20%"/>
 
+[How to Set Up Ubuntu MATE on Raspberry PI](https://www.freecodecamp.org/news/how-to-set-up-ubuntu-mate-on-raspberry-pi/) - 
+How to Set Up Ubuntu MATE on Raspberry PI is a step by step article accompanied with screen shots that show how to flash Micro SD card with Ubuntu Mate and install it on Rasbperry PI.
+
+_freeCodeCamp, Jun 30, 2020._ 
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/prateek-katyal-6jYnKXVxOjc-unsplash.jpg" align="left" border="2" width="20%"/>
+
 [How to Set Up Python Virtual Environment on Ubuntu 20.04](https://www.freecodecamp.org/news/how-to-set-up-python-virtual-environment-on-ubuntu-20-04/) - 
 How to Set Up Python Virtual Environment on Ubuntu 20.04 is once again tackling a returning issue of setting up Python 
 development environment with an up to date tutorial that will show our readers how to quickly set up Virtual 
