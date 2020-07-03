@@ -11,6 +11,9 @@
 How to Set Up Ubuntu MATE on Raspberry PI is a step by step article accompanied with screen shots that show how to flash Micro SD card with Ubuntu Mate and install it on Rasbperry PI.
 
 _freeCodeCamp, Jun 30, 2020._ 
+<br>
+_DEV.to, Jul 02, 2020._ 
+
 
 <br>
 <br>
