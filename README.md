@@ -10,7 +10,7 @@
 [Python if __name__ == __main__ Explained with Code Examples](https://www.freecodecamp.org/news/if-name-main-python-example/) - 
 How to Set Up Ubuntu MATE on Raspberry PI is a step by step article accompanied with screen shots that show how to flash Micro SD card with Ubuntu Mate and install it on Rasbperry PI.
 
-_freeCodeCamp, Jun 30, 2020._ 
+_freeCodeCamp, Jul 03, 2020._ 
 
 <br>
 <br>
