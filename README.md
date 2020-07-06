@@ -5,6 +5,20 @@
 ## List of my published technological articles
 <br>
 <br>
+<img src="https://images.unsplash.com/photo-1539389004540-770367e1bccb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ" align="left" border="2" width="20%"/>
+
+[Python if __name__ == __main__ Explained with Code Examples](https://www.freecodecamp.org/news/if-name-main-python-example/) - 
+This article will talk the usage of  the __name__ variable, whether it is for the file that being used as the main program, or the one being imported by other modules. 
+
+
+_freeCodeCamp, Jul 03, 2020._ 
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/06/1593285574373_plus-1.jpg" align="left" border="2" width="20%"/>
 
 [How to Set Up Ubuntu MATE on Raspberry PI](https://www.freecodecamp.org/news/how-to-set-up-ubuntu-mate-on-raspberry-pi/) - 
