@@ -8,7 +8,8 @@
 <img src="https://images.unsplash.com/photo-1539389004540-770367e1bccb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ" align="left" border="2" width="20%"/>
 
 [Python if __name__ == __main__ Explained with Code Examples](https://www.freecodecamp.org/news/if-name-main-python-example/) - 
-How to Set Up Ubuntu MATE on Raspberry PI is a step by step article accompanied with screen shots that show how to flash Micro SD card with Ubuntu Mate and install it on Rasbperry PI.
+This article will talk the usage of  the __name__ variable, whether it is for the file that being used as the main program, or the one being imported by other modules. 
+
 
 _freeCodeCamp, Jul 03, 2020._ 
 
